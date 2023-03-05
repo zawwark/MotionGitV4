@@ -3,6 +3,8 @@
   font-family: "PassengerDisplaySemibold1";
   src: url('{{ "PassengerDisplay-Semibold.woff2" | https://cdn.shopify.com/s/files/1/0727/0318/1106/files/PassengerDisplay-Semibold.woff2?v=1677958427 }}') format("woff2"),
     url('{{ "PassengerDisplay-Semibold.woff" |  ttps://cdn.shopify.com/s/files/1/0727/0318/1106/files/PassengerDisplay-Semibold.woff?v=1677959721}}') format("woff");
+}
+  @font-face {
   font-family: "ElzaNarrowMedium2";
   src: url('{{ "Elza-NarrowMedium.woff2" | https://cdn.shopify.com/s/files/1/0727/0318/1106/files/Elza-NarrowMedium.woff2?v=1677958453 }}') format("woff2"),
     url('{{ "Elza-NarrowMedium.woff" |  https://cdn.shopify.com/s/files/1/0727/0318/1106/files/Elza-NarrowMedium.woff?v=1677973353}}') format("woff");
@@ -10,7 +12,6 @@
 
   :root {
     --typeHeaderPrimary: 'PassengerDisplaySemibold1';
-    --typeHeaderFallback: 'PassengerDisplaySemibold1';
     --typeHeaderSize: {{ settings.type_header_base_size | default: '32' | append: 'px' }};
     --typeHeaderWeight: 700;
     --typeHeaderLineHeight: {{ settings.type_header_line_height | default: 1.4 }};
