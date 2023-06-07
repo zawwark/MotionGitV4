@@ -36,8 +36,29 @@
             "inventory_transfers_enable": true
           }
         },
+        "0d0037ed-900d-4f21-9983-3544bac017dd": {
+          "type": "shopify:\/\/apps\/retextion-subscriptions\/blocks\/product-subscription-form\/896a3134-375a-4df4-8274-d37b95eafdee",
+          "settings": {
+            "enabled": true,
+            "box_layout": "buttons_stacked",
+            "selector_color": "#ffffff",
+            "selector_secondary_color": "#4A4A4A",
+            "selector_hover_color": "#4A4A4A",
+            "selector_hover_secondary_color": "#ffffff",
+            "selector_hover_border_color": "#4A4A4A",
+            "text_hover_color": "#ffffff",
+            "selector_border_radius": 4,
+            "selector_border_width": 1,
+            "text_color": "#4a4a4a",
+            "stroke_width": 2,
+            "border_radius": 12,
+            "remove_styles": false,
+            "styles": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": false
@@ -71,6 +92,7 @@
         "variant_picker",
         "sales_point",
         "inventory_status",
+        "0d0037ed-900d-4f21-9983-3544bac017dd",
         "buy_buttons",
         "description",
         "tab",
