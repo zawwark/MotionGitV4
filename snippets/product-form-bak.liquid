@@ -1,6 +1,4 @@
 {% form 'product', product, id: form_id, class: 'product-single__form' %}
-      	{% render 'rtx-pdp', product: product %}
-  
   {%- assign enable_dynamic_buttons = false -%}
   {% if show_dynamic_checkout and template != 'product.preorder' %}
     {%- assign enable_dynamic_buttons = true -%}
