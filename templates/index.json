@@ -1,1 +1,173 @@
-{"sections":{"hero-video":{"type":"hero-video","settings":{"title":"Bring your\nbrand to life.","title_size":80,"subheading":"","link_text":"Shop Now","link":"shopify:\/\/products\/prenatal-vitamin-powder","text_align":"vertical-center horizontal-center","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","overlay_opacity":0,"section_height":"650px","mobile_height":"auto"}},"b7b935be-fc89-49b1-a1bd-be34c0faa7e1":{"type":"text-and-image","settings":{"image_mask":"none","image2_mask":"none","subtitle":"","title":"Moms Deserve Better","text":"<p>Most prenatal vitamins are missing key nutrients<br\/>97% of expecting moms take a prenatal vitamin, but 95% are depleted.<br\/>Since we got rid of the capsule, we  can include many more nutrients and at optimal quantities.<\/p><p><\/p><p>(Maybe focus on drinkability)<br\/>(Include sources)<br\/>(Include link to compare)<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"b6094769-8488-4ad5-9d67-57d73ca0a273":{"type":"featured-product","blocks":{"template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-0":{"type":"price","settings":{}},"template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-1":{"type":"separator","settings":{}},"template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-3":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":true}},"template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-4":{"type":"description","settings":{"is_tab":false}}},"block_order":["template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-0","template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-1","template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-3","template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-4"],"settings":{"featured_product":"","divider":false,"sku_enable":false,"image_size":"medium","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_arrows":false,"enable_video_looping":true,"product_video_style":"muted"}},"405d05e6-7e42-49b3-9636-b8f5306e875a":{"type":"logo-list","blocks":{"template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-0":{"type":"logo_image","settings":{"link":""}},"template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-1":{"type":"logo_image","settings":{"link":""}},"template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-2":{"type":"logo_image","settings":{"link":""}},"template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-3":{"type":"logo_image","settings":{"link":""}}},"block_order":["template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-0","template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-1","template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-2","template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-3"],"settings":{"title":"BENEFITS","logo_opacity":76,"divider":false}},"6a83a3d2-06bf-40e1-8461-28c5916343e5":{"type":"background-image-text","settings":{"subtitle":"Our Cofounder","title":"Doctor profile","text":"<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>","button_label":"","button_link":"","layout":"left","height":550,"parallax":true,"parallax_direction":"top","lazyload_images":true}},"40d5ab45-1c57-478a-8212-ff5ce9a91bd1":{"type":"featured-video","settings":{"title":"UGC + Reviews (Reviews.io?)","video_url":"https:\/\/vimeo.com\/716237819","divider":false}},"2a13c661-fe3a-4528-9c52-2ad958b01910":{"type":"featured-video","settings":{"title":"Skeptics\/Expert videos","video_url":"https:\/\/vimeo.com\/716237819","divider":false}}},"order":["hero-video","b7b935be-fc89-49b1-a1bd-be34c0faa7e1","b6094769-8488-4ad5-9d67-57d73ca0a273","405d05e6-7e42-49b3-9636-b8f5306e875a","6a83a3d2-06bf-40e1-8461-28c5916343e5","40d5ab45-1c57-478a-8212-ff5ce9a91bd1","2a13c661-fe3a-4528-9c52-2ad958b01910"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero-video": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Shop Now",
+        "link": "shopify://products/prenatal-vitamin-powder-old",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "b7b935be-fc89-49b1-a1bd-be34c0faa7e1": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Moms Deserve Better",
+        "text": "<p>Most prenatal vitamins are missing key nutrients<br/>97% of expecting moms take a prenatal vitamin, but 95% are depleted.<br/>Since we got rid of the capsule, we  can include many more nutrients and at optimal quantities.</p><p></p><p>(Maybe focus on drinkability)<br/>(Include sources)<br/>(Include link to compare)</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b6094769-8488-4ad5-9d67-57d73ca0a273": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-0",
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-1",
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-3",
+        "template--18109734682930__b6094769-8488-4ad5-9d67-57d73ca0a273-167743100081918040-4"
+      ],
+      "settings": {
+        "featured_product": "",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "405d05e6-7e42-49b3-9636-b8f5306e875a": {
+      "type": "logo-list",
+      "blocks": {
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-0",
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-1",
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-2",
+        "template--18109734682930__405d05e6-7e42-49b3-9636-b8f5306e875a-16774522610526adbc-3"
+      ],
+      "settings": {
+        "title": "BENEFITS",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    },
+    "6a83a3d2-06bf-40e1-8461-28c5916343e5": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Our Cofounder",
+        "title": "Doctor profile",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "button_label": "",
+        "button_link": "",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "40d5ab45-1c57-478a-8212-ff5ce9a91bd1": {
+      "type": "featured-video",
+      "settings": {
+        "title": "UGC + Reviews (Reviews.io?)",
+        "video_url": "https://vimeo.com/716237819",
+        "divider": false
+      }
+    },
+    "2a13c661-fe3a-4528-9c52-2ad958b01910": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Skeptics/Expert videos",
+        "video_url": "https://vimeo.com/716237819",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "hero-video",
+    "b7b935be-fc89-49b1-a1bd-be34c0faa7e1",
+    "b6094769-8488-4ad5-9d67-57d73ca0a273",
+    "405d05e6-7e42-49b3-9636-b8f5306e875a",
+    "6a83a3d2-06bf-40e1-8461-28c5916343e5",
+    "40d5ab45-1c57-478a-8212-ff5ce9a91bd1",
+    "2a13c661-fe3a-4528-9c52-2ad958b01910"
+  ]
+}
